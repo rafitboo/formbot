@@ -84,6 +84,7 @@ export default function TestEmbedPage() {
           <div className="border-t border-slate-100 pt-6 space-y-4 text-slate-600 text-sm">
             <h3 className="font-semibold text-slate-900">Sample Page Content</h3>
             <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ante nec ante bibendum molestie.
               The floating widget button sits anchored at the bottom-right corner regardless of host styling.
             </p>
           </div>
